@@ -217,7 +217,10 @@ void assert_failed(uint8_t *file, uint32_t line)
 ```
 
 ## Output  :
- ![led2](https://user-images.githubusercontent.com/118704873/226378350-0db0dd40-31cd-4bc2-8f67-a0aa2bb7ffe6.jpeg)
+ ### On State
+ ![on state](https://user-images.githubusercontent.com/118704873/226531238-d011bbcc-a875-43a5-b69f-65260972f9bd.jpg)
+### Off State
+
 
  
  
